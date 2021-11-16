@@ -1,4 +1,4 @@
-This repository contains code for our paper "Collective Decision-Making as a Contextual Multi-armed Bandit Problem", as published at ICML 2019. If you use this code in your own research, please cite this paper:
+This repository contains code for our paper "Collective Decision-Making as a Contextual Multi-armed Bandit Problem". If you use this code in your own research, please cite this paper:
 
 ```
 @inproceedings{abels2020collective,
